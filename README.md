@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript**
 
-- 👨‍💻 All of my projects are available at [www.github.com/mstftmk](www.github.com/mstftmk)
+- 👨‍💻 All of my projects are available at [here](www.github.com/mstftmk)
 
 - 📫 How to reach me **mstf.tmk@gmail.com**
 
