@@ -1,5 +1,11 @@
 <h1 align="center">Hello there, I'm Mustafa</h1>
-<iframe src="https://gifer.com/embed/1JGx" width=480 height=208.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<div align="center">
+	<br>
+	<a href="https://github.com/mstftmk/mstftmk/kenobi.gif">
+		<img src="kenobi.gif">
+	</a>
+	<br>
+</div>
 <h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
