@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **TensorFlow, Keras, PyTorch and CNN**
 
-- 👨‍💻 All of my projects are available at [here](www.github.com/mstftmk)
-
 - 📫 How to reach me **mstf.tmk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
