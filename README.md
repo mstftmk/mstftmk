@@ -6,11 +6,11 @@
 	</a>
 	<br>
 </div>
-<h3 align="center">Data Scientist 📊, Software Developer 💻 and Tifosi 🏎🏁</h3>
+<h3 align="center"> Software Developer 💻 and Tifosi 🏎🏁</h3>
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning**
+- 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **TensorFlow, Keras, PyTorch and CNN**
+- 🌱 I’m currently learning **GAN**
 
 - 📫 How to reach me **mstf.tmk@gmail.com**
 
