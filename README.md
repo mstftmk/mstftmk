@@ -8,9 +8,9 @@
 </div>
 <h3 align="center"> Software Developer 💻 and Tifosi 🏎🏁</h3>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **YOLO**
 
-- 🌱 I’m currently learning **GAN**
+- 🌱 I’m currently learning **SLAM**
 
 - 📫 How to reach me **mstf.tmk@gmail.com**
 
